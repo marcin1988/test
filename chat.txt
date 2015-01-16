@@ -1,4 +1,4 @@
-K; 	Co tam Marcin?
+﻿K; 	Co tam Marcin?
 
 M; 	Nic ciekawego
 
@@ -6,3 +6,6 @@ K; 	A co ci napisac?
 
 K;	Wyprawy Krzyżowe - Półksiężyc i Krzyż - Pierwsza Krucjata Lektor PL  
 	https://www.youtube.com/watch?v=2AkfTq9QN6k
+
+M;      Dzięki, zobaczę ten dokument w weekend ten albo następny,
+	w zależności od chęci.
