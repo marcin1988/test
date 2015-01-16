@@ -23,3 +23,5 @@ M;      Utworzyłem gałąź o swoim imieniu.
 
 
 K;	Test tagowania
+
+K;	v1.3
