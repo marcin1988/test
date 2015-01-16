@@ -9,3 +9,14 @@ K;	Wyprawy Krzyżowe - Półksiężyc i Krzyż - Pierwsza Krucjata Lektor PL
 
 M;      Dzięki, zobaczę ten dokument w weekend ten albo następny,
 	w zależności od chęci.
+
+M;      Utworzyłem gałąź o swoim imieniu.
+	Teraz zrobimy tak jak to nam tłumaczył Hubert.
+	Zrobimy commity na prywatnych gałęziach.
+	Potem zmergujemy ją do gałęzi devealop.
+	Gałąź devealop zmergujemy do gałęzi release,
+	gdzie nadamy commitowi numer wersji.
+	Następnie commit z gałęzi release wypchniemy do dwuch gałęzi:
+	develop oraz master. I to będzie sukces.
+	Grafika:
+	https://redmine.3s.pl/attachments/download/97/git-flow-overview.jpg
