@@ -20,3 +20,5 @@ M;      Utworzyłem gałąź o swoim imieniu.
 	develop oraz master. I to będzie sukces.
 	Grafika:
 	https://redmine.3s.pl/attachments/download/97/git-flow-overview.jpg
+
+M;	Commituję moje zmiany do gałęzi develop.
