@@ -28,4 +28,8 @@ K;	Test
 
 M;	Teraz ćwiczę postępowanie według gitflow !!!!!!! lubię wykrzykniki
 
-K.	Test merge'owania.
+K;	Test merge'owania.
+
+M;	Teraz działa nam tagowanie, potrafimy też postępować zgodnie z gitflow.
+	Być może, a myślę, iż tak, jesteśmy gotowi do otrzymania dostępu
+	do firmowego gita.
