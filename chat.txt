@@ -39,3 +39,5 @@ M;	Teraz działa nam tagowanie, potrafimy też postępować zgodnie z gitflow.
 	do firmowego gita.
 
 K;	Prezentacja specjalnie dla Huberta
+
+K:	Jak grochem o sciane...
