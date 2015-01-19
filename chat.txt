@@ -26,3 +26,4 @@ M;	Commituję moje zmiany do gałęzi develop.
 
 K;	Test
 
+K.	Test merge'owania.
