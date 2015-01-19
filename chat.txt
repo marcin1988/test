@@ -10,6 +10,7 @@ K;	Wyprawy Krzyżowe - Półksiężyc i Krzyż - Pierwsza Krucjata Lektor PL
 M;      Dzięki, zobaczę ten dokument w weekend ten albo następny,
 	w zależności od chęci.
 
+
 M;      Utworzyłem gałąź o swoim imieniu.
 	Teraz zrobimy tak jak to nam tłumaczył Hubert.
 	Zrobimy commity na prywatnych gałęziach.
@@ -24,3 +25,4 @@ M;      Utworzyłem gałąź o swoim imieniu.
 M;	Commituję moje zmiany do gałęzi develop.
 
 K;	Test
+
