@@ -5,3 +5,5 @@ zmiana
 
 Wersja 2.1
 
+wersja 2.2
+

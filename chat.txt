@@ -40,4 +40,6 @@ M;	Teraz działa nam tagowanie, potrafimy też postępować zgodnie z gitflow.
 
 K;	Prezentacja specjalnie dla Huberta
 
-K:	Jak grochem o sciane...
+K;	Jak grochem o sciane...
+
+K;	corky tacher
