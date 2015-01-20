@@ -42,4 +42,4 @@ K;	Prezentacja specjalnie dla Huberta
 
 K;	Jak grochem o sciane...
 
-K;	corky tacher --test1
+K;	corky tacher --test
