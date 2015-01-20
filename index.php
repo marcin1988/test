@@ -9,7 +9,7 @@
 	</script>
 <?php 
 
-	echo 'Lorem Ipsum';
+	echo 'Lorem Ipsum 222';
 
 ?>
 </body>
