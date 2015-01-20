@@ -43,7 +43,3 @@ K;	Prezentacja specjalnie dla Huberta
 K:	Jak grochem o sciane...
 
 K;		tadada
-K;	Jak grochem o sciane...
-
-K;	corky tacher --test
- kamil
